@@ -1,4 +1,3 @@
 print('OK')
-print('OK1')
-print('OK2')
+print('OK10')
 print('OK3')
